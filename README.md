@@ -14,13 +14,14 @@ This project requires [Processing](https://processing.org/) and [Arduino](https:
  * GND   >>>    GND     >>>      Ground
  * 21    >>>    SDA     >>>      I2C Data
  * 22    >>>    SCL     >>>      I2C Clock
-###Button setup, I need this for my project, but you can comment out the entire "inputSetup();
- * PUSHBUTTON BTN_A >>>    4
+
+### Button setup, I need this for my project, but you can comment out the entire "inputSetup();
+ 
+ * BTN_A >>>    4
  * BTN_B >>>    37
  * BTN_C >>>    13
  * BTN_D >>>    15
- *
- *
+
 
 ###THIS PROJECT USES TFT_eSPI, Look for "myUser_TTGO_T_Display.h" file to setup the display.
 
