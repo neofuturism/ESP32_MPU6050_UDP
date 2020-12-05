@@ -1,4 +1,4 @@
-[[https://raw.githubusercontent.com/neofuturism/ESP32_MPU6050_UDP/main/ESP32_MPU6050_UDP/files/header.png|alt=mpu6050 gyro]]
+[[/files/header.png]]
 
 # ESP32 MPU6050 UDP TRANSFER
 Use this script to send the MPU6050 values to Processing using UDP. 
